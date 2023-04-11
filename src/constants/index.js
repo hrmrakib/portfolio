@@ -120,7 +120,7 @@ const experiences = [
     company_name: "Your Company",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "November 2020 - July 2021",
+    date: "April 2023 - July 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -130,10 +130,10 @@ const experiences = [
   },
   {
     title: "React Developer",
-    company_name: "Teslaaaa",
+    company_name: "Your Company",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "July 2021 - Feb 2022",
+    date: "July 2025 - Feb 2027",
     points: [
       "Participating in code reviews and providing constructive feedback to other developers.",
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -143,10 +143,10 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Amazonnnn",
+    company_name: "Your Company",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2027 - Jan 2028",
     points: [
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -156,7 +156,7 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Metaaaa",
+    company_name: "Your Company",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
