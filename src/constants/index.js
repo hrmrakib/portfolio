@@ -242,16 +242,16 @@ const projects = [
     live_link: "https://youtube23.netlify.app",
   },
   {
-    name: "Trip Guide",
+    name: "Tip Calculator",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Try to calculate your giving tip.",
     tags: [
       {
-        name: "nextjs",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "javascript",
         color: "green-text-gradient",
       },
       {
@@ -260,8 +260,8 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
-    live_link: "https://youtube23.netlify.app",
+    source_code_link: "https://github.com/hrmrakib/tips-app",
+    live_link: "https://tips-ap.netlify.app/",
   },
 ];
 
